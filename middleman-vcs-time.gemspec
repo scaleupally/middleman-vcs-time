@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
   # Dependencies
   gem.platform              = Gem::Platform::RUBY
   gem.required_ruby_version = '~> 2.2'
-  gem.add_runtime_dependency 'middleman-core', '~> 5.0'
+  gem.add_runtime_dependency 'middleman-core', '~> 5.0.0.rc.2'
 
   # Development dependencies
   gem.add_development_dependency 'rake'
